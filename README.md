@@ -1,2 +1,2 @@
 # AzureOpenAI-samples
-Azure openAI samples
+Azure openAI chat completions samples
